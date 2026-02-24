@@ -48,7 +48,7 @@ sns.countplot(
 
 ---
 
-### 3️⃣ ** Seaborn Barplot - FutureWarning corrigé**
+### 3️⃣ **Seaborn Barplot - FutureWarning corrigé**
 
 ```python
 # Comparaison accuracies
