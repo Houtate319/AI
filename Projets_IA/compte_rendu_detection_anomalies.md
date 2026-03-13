@@ -1,6 +1,10 @@
+<img src="Données/ENCG-S.png" style="height:200px;margin-right:200px; float:left; border-radius:10px;"/>
+
 # Détection d'anomalies dans les écritures comptables
 ### Projet IA — Option Contrôle, Audit & Conseil | ENCG Settat
-**Module : Intelligence Artificielle · Mars 2026**  
+**Module : Intelligence Artificielle**  
+**Rédigé par : HOUTATE Saïd et JAMAL Yassine**
+
 **Outils : Python · Scikit-learn · XGBoost · LightGBM · Google Colab · GitHub · Claude AI**
 
 ---
@@ -52,9 +56,7 @@ Au Maroc, cette problématique est d'autant plus pertinente que les missions d'a
 
 ## 3. Données utilisées
 
-### 3.1 Sources des données vérifiées
-
-> ⚠️ **Note de transparence** : Toutes les sources ci-dessous ont été vérifiées et sont accessibles publiquement. Aucun dataset générique "Journal Entries" n'existe sous ce nom exact sur Kaggle — le projet s'appuie sur deux jeux de données réels, combinés à une augmentation synthétique reproduisant la structure d'un journal comptable général.
+### 3.1 Sources des données utilisées
 
 #### Dataset principal — Audit Risk (Kaggle)
 - **Nom** : *Audit Data — Audit Risk dataset for classifying fraudulent firms*
@@ -426,5 +428,5 @@ Ce projet illustre concrètement comment l'**Intelligence Artificielle** s'intè
 
 ---
 
-*Rapport rédigé dans le cadre du module Intelligence Artificielle — ENCG Settat · Mars 2026*  
-*Encadrant : A. Larhlimi*
+*Rapport rédigé dans le cadre du module Intelligence Artificielle — ENCG Settat*  
+*Encadré par : Dr. A. Larhlimi*
