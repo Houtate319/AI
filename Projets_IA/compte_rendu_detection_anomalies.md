@@ -1,3 +1,5 @@
+<img src="Données/ENCG 2.jpeg" style="height:200px;margin-right:200px; float:left; border-radius:10px;"/>
+
 # Détection d'anomalies dans les écritures comptables
 ### Projet IA — Option Contrôle, Audit & Conseil | ENCG Settat
 **Module : Intelligence Artificielle · Mars 2026**  
