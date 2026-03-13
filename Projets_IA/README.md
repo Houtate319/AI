@@ -105,27 +105,16 @@ Le dataset final de **20 000 écritures** (95 % normales / 5 % suspectes) est co
 ## 4. 📁 Structure du dépôt
 
 ```
-📦 detection-anomalies-comptables/
+📦 AI / Projets_IA /
 │
-├── 📄 README.md                               ← Ce fichier
-├── 📄 compte_rendu_detection_anomalies.md     ← Rapport complet structuré
-├── 💻 detection_anomalies_comptables.ipynb    ← Notebook Google Colab
+├── 📄 README.md                  ← Ce fichier (présentation du projet)
+├── 📄 Fichier.md                 ← Rapport complet structuré (compte rendu)
+├── 💻 Notebook.ipynb             ← Notebook Google Colab commenté et reproductible
 │
-├── 📂 assets/                                 ← Images & médias
-│   ├── photo_etudiant1.jpg                    ← 📸 À ajouter
-│   ├── photo_etudiant2.jpg                    ← 📸 À ajouter
-│   ├── eda_journal.png                        ← Graphiques EDA
-│   ├── benford_analysis.png                   ← Analyse Loi de Benford
-│   ├── smote_balance.png                      ← Équilibrage SMOTE
-│   ├── model_comparison.png                   ← Comparaison des modèles
-│   ├── shap_importance.png                    ← Importance SHAP
-│   └── shap_beeswarm.png                      ← Beeswarm SHAP
-│
-├── 📂 data/                                   ← Données
-│   └── README_data.md                         ← Instructions téléchargement Kaggle
-│
-└── 📂 docs/                                   ← Documentation complémentaire
-    └── references_ifac.md                     ← Liens normes ISA
+└── 📂 Données/                   ← Données du projet
+    ├── README_data.md            ← Instructions de téléchargement (Kaggle)
+    ├── audit_risk_dataset.csv    ← Source 1 : Audit Risk (sid321axn, Kaggle)
+    └── paysim_sample.csv         ← Source 2 : PaySim (ealaxi, Kaggle)
 ```
 
 ---
