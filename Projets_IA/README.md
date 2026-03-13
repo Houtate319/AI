@@ -1,6 +1,6 @@
 # 🔍 Détection d'anomalies dans les écritures comptables
 ### Projet IA — Option Contrôle, Audit & Conseil | ENCG Settat
-> **Module : Intelligence Artificielle · Mars 2026 · Encadrant : A. Larhlimi**
+> **Module : Intelligence Artificielle · Encadré par: Dr. A. Larhlimi**
 
 ---
 
@@ -8,41 +8,32 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <br/>
-      <!-- 📸 Remplacer le bloc ci-dessous par la photo de l'étudiant·e 1 -->
-      <!-- <img src="assets/photo_etudiant1.jpg" width="130" height="130" style="border-radius:50%; object-fit:cover;" alt="Photo Étudiant 1"> -->
+    <td align="center" width="33.33%">
       <br/><br/>
-      <b>🎓 Étudiant·e 1</b><br/><br/>
-      <b>Nom complet :</b> <code>[ Prénom NOM ]</code><br/>
-      <b>Filière :</b> <code>[ Option Contrôle, Audit & Conseil ]</code><br/>
-      <b>Année :</b> <code>[ 2025–2026 ]</code><br/>
-      <b>Email :</b> <code>[ email@encg-settat.ma ]</code><br/>
-      <b>GitHub :</b> <a href="https://github.com/username1">@username1</a><br/>
-      <b>LinkedIn :</b> <a href="https://linkedin.com/in/profil1">linkedin.com/in/profil1</a>
+      <br/><br/>
+      <b><img src="Données/HOUTATE_Saïd_24010355.png" style="height:200px;margin-right:200px; float:left; border-radius:10px;"/></b><br/><br/>
+      <b>Nom complet :</b> <code>[HOUTATE Saïd]</code><br/>
+      <b>Apogée :</b> <code>[**24010355**]</code><br/>
       <br/><br/>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33.33%">
+      <br/><br/>
+      <br/><br/>
+      <b><img src="Données/JAMAL_Yassine_22007655.jpg" style="height:200px;margin-right:200px; float:left; border-radius:10px;"/></b><br/><br/>
+      <b>Nom complet :</b> <code>[JAMAL Yassine]</code><br/>
+      <b>Apogée :</b> <code>[**22007655**]</code><br/>
+      <br/><br/>
+    </td>
+     <td align="center" width="33.33%">
       <br/>
-      <!-- 📸 Remplacer le bloc ci-dessous par la photo de l'étudiant·e 2 -->
-      <!-- <img src="assets/photo_etudiant2.jpg" width="130" height="130" style="border-radius:50%; object-fit:cover;" alt="Photo Étudiant 2"> -->
       <br/><br/>
-      <b>🎓 Étudiant·e 2</b><br/><br/>
-      <b>Nom complet :</b> <code>[ Prénom NOM ]</code><br/>
-      <b>Filière :</b> <code>[ Option Contrôle, Audit & Conseil ]</code><br/>
-      <b>Année :</b> <code>[ 2025–2026 ]</code><br/>
-      <b>Email :</b> <code>[ email@encg-settat.ma ]</code><br/>
-      <b>GitHub :</b> <a href="https://github.com/username2">@username2</a><br/>
-      <b>LinkedIn :</b> <a href="https://linkedin.com/in/profil2">linkedin.com/in/profil2</a>
-      <br/><br/>
+      <b><img src="Données/Projet IA.png" style="height:200px;margin-right:200px; float:left; border-radius:10px;"/></b><br/><br/>
+       <b>Google Collab :</b> <code>[QR Code]</code><br/>
+      <br/><br/><br/>
     </td>
   </tr>
 </table>
 
-> 💡 **Comment ajouter vos photos :**
-> 1. Placez vos photos dans le dossier `assets/` du dépôt
-> 2. Nommez-les `photo_etudiant1.jpg` et `photo_etudiant2.jpg`
-> 3. Décommentez les lignes `<img ...>` ci-dessus en retirant les `<!--` et `-->`
 
 ---
 
@@ -50,14 +41,12 @@
 
 1. [Vue d'ensemble du projet](#1--vue-densemble-du-projet)
 2. [Contexte & Problématique](#2--contexte--problématique)
-3. [Livrables](#3--livrables)
-4. [Sources de données vérifiées](#4--sources-de-données-vérifiées)
-5. [Structure du dépôt](#5--structure-du-dépôt)
-6. [Méthodologie](#6--méthodologie)
-7. [Résultats & Performances](#7--résultats--performances)
-8. [Installation & Exécution](#8--installation--exécution)
-9. [Normes IFAC / IAASB utilisées](#9--normes-ifac--iaasb-utilisées)
-10. [Références bibliographiques](#10--références-bibliographiques)
+3. [Sources de données vérifiées](#3--sources-de-données-vérifiées)
+4. [Structure du dépôt](#4--structure-du-dépôt)
+5. [Méthodologie](#5--méthodologie)
+6. [Résultats & Performances](#6--résultats--performances)
+7. [Normes IFAC / IAASB utilisées](#7--normes-ifac--iaasb-utilisées)
+8. [Références bibliographiques](#8--références-bibliographiques)
 
 ---
 
@@ -69,10 +58,6 @@
 | **Titre** | Détection d'anomalies dans les écritures comptables |
 | **Type de tâche** | Classification supervisée |
 | **Variable cible** | Écriture suspecte : `0 = normale` / `1 = anormale` |
-| **Établissement** | ENCG Settat — École Nationale de Commerce et de Gestion |
-| **Module** | Intelligence Artificielle |
-| **Encadrant** | A. Larhlimi |
-| **Année** | Mars 2026 |
 | **Outils** | Python · Scikit-learn · XGBoost · LightGBM · Google Colab · GitHub · Claude AI |
 
 ### 🎯 Problématique
@@ -96,22 +81,7 @@ Face à cette réalité, ce projet propose d'automatiser la détection des écri
 
 ---
 
-## 3. 📦 Livrables
-
-Conformément aux consignes du module IA (ENCG Settat), ce dépôt contient l'ensemble des livrables attendus :
-
-| # | Livrable | Fichier | Statut |
-|---|----------|---------|--------|
-| 1 | 📄 **Rapport structuré** | [`compte_rendu_detection_anomalies.md`](./compte_rendu_detection_anomalies.md) | ✅ Disponible |
-| 2 | 💻 **Notebook commenté** | [`detection_anomalies_comptables.ipynb`](./detection_anomalies_comptables.ipynb) | ✅ Disponible |
-| 3 | 🎥 **Vidéo explicative** | *(lien à compléter — 5 à 10 min)* | 🔲 À ajouter |
-| 4 | 📁 **Dépôt GitHub** | Ce dépôt + README + données | ✅ Ce dépôt |
-
-> 📌 **Rappel des consignes livrable vidéo :** démo du notebook en direct + explication des choix méthodologiques (modèles, features, métriques) — durée : 5 à 10 minutes.
-
----
-
-## 4. 🗄 Sources de données vérifiées
+## 3. 🗄 Sources de données vérifiées
 
 > ⚠️ **Transparence des sources** : Il n'existe pas de dataset générique "Journal Entries" sur Kaggle. Ce projet s'appuie sur deux jeux de données publics **réels et vérifiés**, complétés par une augmentation synthétique reproduisant la structure d'un journal général SAP FICO.
 
@@ -132,7 +102,7 @@ Le dataset final de **20 000 écritures** (95 % normales / 5 % suspectes) est co
 
 ---
 
-## 5. 📁 Structure du dépôt
+## 4. 📁 Structure du dépôt
 
 ```
 📦 detection-anomalies-comptables/
@@ -160,7 +130,7 @@ Le dataset final de **20 000 écritures** (95 % normales / 5 % suspectes) est co
 
 ---
 
-## 6. ⚙️ Méthodologie
+## 5. 📄 Méthodologie
 
 ### Pipeline complet
 
@@ -169,28 +139,28 @@ Données brutes (Kaggle)
         │
         ▼
 ┌─────────────────────┐
-│  Feature Engineering │  ← Loi de Benford · Variables temporelles · Comportement utilisateur
+│ Feature Engineering │  ← Loi de Benford · Variables temporelles · Comportement utilisateur
 └─────────────────────┘
         │
         ▼
 ┌─────────────────────┐
-│  Prétraitement       │  ← StandardScaler · LabelEncoder · SMOTE (déséquilibre 95/5)
+│    Prétraitement    │  ← StandardScaler · LabelEncoder · SMOTE (déséquilibre 95/5)
 └─────────────────────┘
         │
         ▼
 ┌──────────────────────────────────────────────┐
-│             Modélisation (4 modèles)          │
-│  Baseline LR → Random Forest → XGBoost → LGBM│
+│            Modélisation (4 modèles)          │
+│ Baseline LR → Random Forest → XGBoost → LGBM │
 └──────────────────────────────────────────────┘
         │
         ▼
 ┌─────────────────────┐
-│  Évaluation          │  ← F1-Score · AUC-ROC · PR-AUC · Matrice de confusion
+│     Évaluation      │  ← F1-Score · AUC-ROC · PR-AUC · Matrice de confusion
 └─────────────────────┘
         │
         ▼
 ┌─────────────────────┐
-│  Explicabilité SHAP  │  ← Importance globale · Force Plot · Top 20 alertes
+│  Explicabilité SHAP │  ← Importance globale · Force Plot · Top 20 alertes
 └─────────────────────┘
 ```
 
@@ -206,7 +176,7 @@ Données brutes (Kaggle)
 
 ---
 
-## 7. 📊 Résultats & Performances
+## 6. 📊 Résultats & Performances
 
 ### Tableau comparatif
 
@@ -241,55 +211,8 @@ APRÈS (scoring ML)              : 100% des écritures analysées, alertes prior
 
 ---
 
-## 8. 🚀 Installation & Exécution
 
-### Option A — Google Colab *(recommandé)*
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VOTRE_USERNAME/VOTRE_REPO/blob/main/detection_anomalies_comptables.ipynb)
-
-> Remplacez `VOTRE_USERNAME/VOTRE_REPO` par votre URL GitHub réelle.
-
-1. Cliquer sur le badge **Open in Colab** ci-dessus
-2. Exécuter la première cellule (`!pip install ...`)
-3. Exécuter toutes les cellules dans l'ordre (`Runtime > Run all`)
-
-### Option B — Exécution locale
-
-```bash
-# 1. Cloner le dépôt
-git clone https://github.com/VOTRE_USERNAME/VOTRE_REPO.git
-cd VOTRE_REPO
-
-# 2. Créer un environnement virtuel
-python -m venv venv
-source venv/bin/activate        # Linux / macOS
-# venv\Scripts\activate         # Windows
-
-# 3. Installer les dépendances
-pip install -r requirements.txt
-
-# 4. Lancer Jupyter
-jupyter notebook detection_anomalies_comptables.ipynb
-```
-
-### Dépendances (`requirements.txt`)
-
-```txt
-numpy>=1.24
-pandas>=2.0
-scikit-learn>=1.3
-xgboost>=2.0
-lightgbm>=4.0
-imbalanced-learn>=0.11
-shap>=0.44
-matplotlib>=3.7
-seaborn>=0.12
-jupyter>=1.0
-```
-
----
-
-## 9. 📜 Normes IFAC / IAASB utilisées
+## 7. 📜 Normes IFAC / IAASB utilisées
 
 | Norme | Description | Application dans le projet | Lien officiel |
 |-------|-------------|---------------------------|---------------|
@@ -300,7 +223,7 @@ jupyter>=1.0
 
 ---
 
-## 10. 📚 Références bibliographiques
+## 8. 📚 Références bibliographiques
 
 ### Bases de données
 - Saxena, S. (2019). *Audit Risk Dataset*. Kaggle. https://www.kaggle.com/datasets/sid321axn/audit-data
@@ -339,7 +262,5 @@ jupyter>=1.0
 <div align="center">
 
 *Projet réalisé dans le cadre du module Intelligence Artificielle*  
-**ENCG Settat · Option Contrôle, Audit & Conseil · Mars 2026**  
-*Encadrant : A. Larhlimi*
 
 </div>
