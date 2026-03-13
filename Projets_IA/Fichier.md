@@ -2,7 +2,9 @@
 
 # Détection d'anomalies dans les écritures comptables
 ### Projet IA — Option Contrôle, Audit & Conseil | ENCG Settat
-**Module : Intelligence Artificielle · Mars 2026**  
+**Module : Intelligence Artificielle**  
+**Rédigé par : HOUTATE Saïd et JAMAL Yassine**
+
 **Outils : Python · Scikit-learn · XGBoost · LightGBM · Google Colab · GitHub · Claude AI**
 
 ---
@@ -378,4 +380,4 @@ Ce projet illustre concrètement comment l'**Intelligence Artificielle** s'intè
 ---
 
 *Rapport rédigé dans le cadre du module Intelligence Artificielle — ENCG Settat · Mars 2026*  
-*Encadrant : A. Larhlimi*
+*Encadré par : Dr. A. Larhlimi*
