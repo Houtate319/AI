@@ -113,8 +113,10 @@ Le dataset final de **20 000 écritures** (95 % normales / 5 % suspectes) est co
 │
 └── 📂 Données/                   ← Données du projet
     ├── README_data.md            ← Instructions de téléchargement (Kaggle)
-    ├── audit_risk_dataset.csv    ← Source 1 : Audit Risk (sid321axn, Kaggle)
-    └── paysim_sample.csv         ← Source 2 : PaySim (ealaxi, Kaggle)
+    ├── ENCG-S.png                ← Logo ENCG SETTAT
+    ├── Projet IA.png             ← QR Code vers le projet sur Google Collab
+    ├── HOUTATE_Saïd_24010355.png
+    └── JAMAL_Yassine_22007655.jpg         
 ```
 
 ---
