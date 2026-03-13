@@ -56,30 +56,4 @@ unzip paysim1.zip -d ./Données/
 
 ---
 
-## 🗂 Structure attendue après téléchargement
-
-```
-📂 Données/
-├── 📄 README_data.md                         ← Ce fichier
-├── 📊 audit_risk.csv                         ← Source 1 (Kaggle — sid321axn)
-└── 📊 PS_20174392719_1491204439457_log.csv   ← Source 2 (Kaggle — ealaxi)
-```
-
----
-
-## ⚙️ Configuration Kaggle API (optionnel)
-
-Pour utiliser la Kaggle CLI, créez le fichier `~/.kaggle/kaggle.json` :
-
-```json
-{
-  "username": "VOTRE_USERNAME_KAGGLE",
-  "key": "VOTRE_CLE_API_KAGGLE"
-}
-```
-
-> Obtenez votre clé API sur : **kaggle.com → Account → API → Create New Token**
-
----
-
-*Sources vérifiées — Mars 2026 | Projet IA ENCG Settat*
+*Projet IA ENCG Settat*
