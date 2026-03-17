@@ -235,7 +235,7 @@ APRÈS (scoring ML)              : 100% des écritures analysées, alertes prior
 - Nigrini, M. (2012). *Benford's Law: Applications for Forensic Accounting, Auditing, and Fraud Detection*. Wiley.
 
 ### Cadre institutionnel
-- ONEC — Ordre National des Experts Comptables du Maroc. https://www.onec.ma
+- ONEC — Ordre National des Experts Comptables du Maroc. [www.oec.ma](https://oec.ma/)
 - Loi marocaine 17-95 relative aux Sociétés Anonymes.
 - Loi marocaine 5-96 relative aux autres formes de sociétés.
 
