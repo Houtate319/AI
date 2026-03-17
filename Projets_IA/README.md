@@ -113,6 +113,7 @@ Le dataset final de **20 000 écritures** (95 % normales / 5 % suspectes) est co
 ├── 📄 README.md                  ← Ce fichier (présentation du projet)
 ├── 📄 Fichier.md                 ← Rapport complet structuré (compte rendu)
 ├── 💻 Notebook.ipynb             ← Notebook Google Colab commenté et reproductible
+├──
 │
 └── 📂 Données/                   ← Données du projet
     ├── README_data.md            ← Instructions de téléchargement (Kaggle)
