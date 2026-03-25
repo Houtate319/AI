@@ -111,9 +111,10 @@ Le dataset final de **20 000 écritures** (95 % normales / 5 % suspectes) est co
 📦 AI / Projets_IA /
 │
 ├── 📄 README.md                  ← Ce fichier (présentation du projet)
-├── 📄 Fichier.md                 ← Rapport complet structuré (compte rendu)
+├── 📄 compte_rendu_skill.pdf     ← Rapport complet structuré (compte rendu)
 ├── 💻 Notebook.ipynb             ← Notebook Google Colab commenté et reproductible
-├── 📄AnomaliesComptables_S8_2026_Skill.pdf
+├── 𝄜  audit_data.csv      
+├── 📹Vidéo_explicative.md
 │
 └── 📂 Données/                   ← Données du projet
     ├── README_data.md            ← Instructions de téléchargement (Kaggle)
